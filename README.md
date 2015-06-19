@@ -14,5 +14,5 @@ The documentation should be at the Shiny website itself. Do not post to an exter
 The Shiny application in question is entirely up to you. However, if you're having trouble coming up with ideas, you could start from the simple prediction algorithm done in class and build a new algorithm on one of the R datasets packages. Please make the package simple for the end user, so that they don't need a lot of your prerequisite knowledge to evaluate your application. You should emphasize a simple project given the short time frame.  
 
 If you like to see the runing result, 
-## please:check the following link:
+Please:check the following link:
 <https://jeffzfw.shinyapps.io/data_product>
