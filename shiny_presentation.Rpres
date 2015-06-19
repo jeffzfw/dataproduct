@@ -1,0 +1,39 @@
+shiny_presentation
+========================================================
+author: jeffzfw 
+date: 2015-6-20
+
+Question
+========================================================
+
+A project to Write a shiny application need to be finished.
+
+- Some form of input (widget: textbox, radio button, checkbox, ...)
+- Some operation on the ui input in sever.R
+- Some reactive output displayed as a result of server calculations
+- ...
+
+Plan
+========================================================
+Decide to using iris dataset to finish this project.
+
+- Iris dataset is very famous dataset.
+- Easier to load.
+- Faster to deploy.
+- ...
+
+
+Summary of iris dataset
+========================================================
+
+```{r}
+summary(iris)
+```
+
+Plot of iris dataset
+========================================================
+
+```{r, echo=FALSE}
+plot(iris)
+```
+<https://jeffzfw.shinyapps.io/data_product>
